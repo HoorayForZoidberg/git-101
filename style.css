@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: Helvetica;
+  justify-content:center;
+}
+
+#logo {
+  height: 80px;
+  widows: 80px;
+}
